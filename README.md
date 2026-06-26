@@ -1,2 +1,1 @@
-# extra-admindb-prueba1
-Practica del extraordinario pasado de 2025
+Odio a la gente de color
