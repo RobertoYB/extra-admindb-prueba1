@@ -11,6 +11,9 @@ services:
     ports:
       - "3306:3306"
 
+    volumes:
+      - ./scripts:/scripts
+
     secrets:
       - root_password
 
